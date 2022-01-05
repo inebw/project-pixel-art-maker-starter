@@ -23,16 +23,16 @@ td {
 }
 
 table {
-    border-collapse: collapse;
     margin: 0 auto;
+    border-spacing: 0;
 }
 
 tr {
-    height: 20px;
+    height: 2em;
 }
 
 td {
-    width: 20px;
+    width: 2em;
 }
 
 input[type=number] {

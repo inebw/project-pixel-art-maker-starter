@@ -18,6 +18,7 @@ function makeGrid() {
                 row.appendChild(column);
             }
         }
+        // Creates the grid based on the user provided width and height.
     } else {
         alert("Please enter a number between 1 to 100");
         // Creates an alert when the user enters a number outside 1 to 100.
